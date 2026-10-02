@@ -224,10 +224,6 @@ Smart agricultural monitoring system with full device-driver stack on STM32, clo
 <a href="https://linkedin.com/in/harshal-khandave">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-&nbsp;
-<a href="tel:+12017056519">
-  <img src="https://img.shields.io/badge/Phone-%2B1%20(201)%20705--6519-22c55e?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
 
 <br/><br/>
 

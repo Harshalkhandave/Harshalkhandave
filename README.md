@@ -186,7 +186,11 @@ Smart agricultural monitoring system with full device-driver stack on STM32, clo
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Harshalkhandave&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=00d4ff&ring=7c3aed&fire=00d4ff&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00d4ff&sideLabels=94a3b8&dates=64748b" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=Harshalkhandave&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=00d4ff&ring=7c3aed&fire=00d4ff&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00d4ff&sideLabels=94a3b8&dates=64748b" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Harshalkhandave&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies" />
 
 </div>
 
